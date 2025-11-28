@@ -2,8 +2,6 @@
 
 ### a junior developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=WuXing90&label=Profile views&color=0e75b6&style=flat" alt="WuXing90" /> </p>
-
 - 💬 Ask me about  
   **Hi everyone! I'm Wuxin, a junior developer. Currently, I'm maintaining ROMs for Redmi Note 8 Pro (begonia), OnePlus Ace 2V, and Redmi Pad SE (xun). I hope you'll like and support all my work!**
 
